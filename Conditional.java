@@ -1,5 +1,5 @@
 public class Conditional {
-    public static void main(String args[]){
+    public static void main(String[] args){
         //if statement
         int x = 10;
         if (x > 5) {
